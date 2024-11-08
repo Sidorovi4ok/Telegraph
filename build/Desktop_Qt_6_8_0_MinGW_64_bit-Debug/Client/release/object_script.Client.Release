@@ -1,0 +1,16 @@
+release/main.o
+release/Kernel.o
+release/MainWindow.o
+release/WavReader.o
+release/Network.o
+release/Message.o
+release/Storage.o
+release/copus.o
+release/RingBuffer.o
+release/PortAudioWraper.o
+release/qrc_resources.o
+release/moc_Kernel.o
+release/moc_MainWindow.o
+release/moc_Network.o
+release/moc_Message.o
+release/moc_Storage.o

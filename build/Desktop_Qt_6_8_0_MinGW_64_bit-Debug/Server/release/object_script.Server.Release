@@ -1,0 +1,16 @@
+release/main.o
+release/Kernel.o
+release/MainWindow.o
+release/Network.o
+release/Database.o
+release/Subject.o
+release/Connection.o
+release/Message.o
+release/qrc_resources.o
+release/moc_Kernel.o
+release/moc_MainWindow.o
+release/moc_Network.o
+release/moc_Database.o
+release/moc_Subject.o
+release/moc_Connection.o
+release/moc_Message.o

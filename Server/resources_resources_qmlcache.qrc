@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="qml/main.qml">resources/qml/main.qml</file>
+        <file alias="icons/ethernet.png">resources/icons/ethernet.png</file>
+        <file alias="icons/keyword.png">resources/icons/keyword.png</file>
+    </qresource>
+</RCC>
