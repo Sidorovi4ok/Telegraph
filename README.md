@@ -138,3 +138,9 @@ make
 Если у вас возникли вопросы или проблемы:
 - Создайте issue в репозитории
 - Напишите в Telegram: @MrMeowMurk 
+
+
+<p align="center">
+  Сделано с ❤️ от MeowMurk
+</p>
+
