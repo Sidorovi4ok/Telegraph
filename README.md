@@ -141,6 +141,6 @@ make
 
 
 <p align="center">
-  Сделано с ❤️ от MeowMurk
+  Сделано с ❤️ by MeowMurk
 </p>
 
